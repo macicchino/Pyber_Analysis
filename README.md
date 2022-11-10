@@ -17,19 +17,17 @@ Displayed below is a data frame organized by city types: Urban, Suburban, and Ru
 
 ![pyber_summary](Analysis/Pyber_data_Frame.png "PyBer_Data_Frame")
 
-As the data shows, the Urban city type has the highest 'Total Rides' , 'Total Drivers' and 'Total Fares'. However, the Rural city type has higher 'Average Fare per Ride' and 'Average Fare per Driver'. This makese sense, as there are less people in rural areas. In addition, the distance of trips in Rural areas should generally be longer. So we would expect a higher average fare for rides and drivers. 
+As the data shows, the Urban city type has the highest 'Total Rides' , 'Total Drivers' and 'Total Fares'. However, the Rural city type has higher 'Average Fare per Ride' and 'Average Fare per Driver'. This makes sense, as there are less people in rural areas. In addition, the distance of trips in Rural areas should generally be longer. So we would expect a higher average fare for rides and drivers in Rural trips. 
 
 ### Analysis of Ride Share Data
 
+Displayed below is a multiple-line chart of total fares for each city type: Urban, Suburban, and Rural. 
 
 ![pyber_summary](Analysis/PyBer_fare_summary.png "PyBer_fare_summary")
 
 
 
-
-
-
-### Summary
+### Summary & Recommendations
 
 
 
