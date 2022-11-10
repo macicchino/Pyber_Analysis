@@ -14,7 +14,7 @@
 ### Analysis of Ride Share Data
 
 
-![pyber_summary](PyBer_fare_summary.png "PyBer_fare_summarye")
+![pyber_summary](Analysis/PyBer_fare_summary.png "PyBer_fare_summarye")
 
 
 ### Summary
