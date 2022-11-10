@@ -11,15 +11,10 @@
 ## Results & Analysis
 
 
-### Analysis of Performance: AllStockAnalysis() Module
+### Analysis of Ride Share Data
 
 
-![pyber_summary](PyBer_fare_summary.png "Pyber Total Fare by City Type")
-
-### Analysis of Performance: AllStockAnalysisRefactored() Module
-
-
-![Outcomes_vs_Goals](VBA_Challenge_2018_AllStocksRefactored.png "VBA_Challenge_2018_AllStocksRefactored")
+![pyber_summary](PyBer_fare_summary.png "PyBer_fare_summarye")
 
 
 ### Summary
