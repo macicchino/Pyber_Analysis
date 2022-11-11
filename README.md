@@ -30,9 +30,9 @@ As show in the chart, Urban area's bring in the most 'Total Fares', Suburban are
 ### Summary & Recommendations
 
 I would make three key recommendation to V. Isualize:
- 1. 
- 2.
- 3. 
+ - While the majority of revenue comes from Urban areas, the average fare per ride and the average far per driver is much higher in Rural areas. Pyber has the opportunity to expand its consumer base, and revenue, by pursing more rural customers. 
+ - A possible reason there is less Rural Fares could be that Rural areas have the lease amount of drivers. Pyber should consider aquiring more drivers in rural areas in order to access the rural consumer base as mentioned above. 
+ - Fares appear to drop at the begginning of March for all city types. Perhaps Pyber could offer coupons or discounts to attact more customers based off of seasonal trends. 
 
 
 
