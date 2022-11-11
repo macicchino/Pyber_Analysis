@@ -25,10 +25,14 @@ Displayed below is a multiple-line chart of total fares for each city type: Urba
 
 ![pyber_summary](Analysis/PyBer_fare_summary.png "PyBer_fare_summary")
 
-As show in the chart, Urban area's bring in the most 'Total Fares', Suburban area's the second most, and Rural areas the least amount of total fares. However, there are a number of trends across time for city types. For example, all types increase fares in the later part of February befroe dropping back down in March. 
+As show in the chart, Urban area's bring in the most 'Total Fares', Suburban area's the second most, and Rural areas the least amount of total fares. However, there are a number of trends across time for city types. For example, all types increase fares in the later part of February before dropping back down in March. 
 
 ### Summary & Recommendations
 
+I would make three key recommendation to V. Isualize:
+ - 1. 
+ - 2.
+ - 3. 
 
 
 
