@@ -30,9 +30,9 @@ As show in the chart, Urban area's bring in the most 'Total Fares', Suburban are
 ### Summary & Recommendations
 
 I would make three key recommendation to V. Isualize:
- - 1. 
- - 2.
- - 3. 
+ 1. 
+ 2.
+ 3. 
 
 
 
